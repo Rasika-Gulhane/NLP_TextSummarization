@@ -3,12 +3,16 @@ import urllib.request as request
 import zipfile
 from TextSummarizer.logging import logger
 from TextSummarizer.utils.commons import get_size
-from TextSummarizer.entity import DataIngestionConfig
 from pathlib import Path
+from TextSummarizer.entity import DataIngestionConfig
+
+
 
 class DataIngestion:
     def __init__(self, config: DataIngestionConfig):
         self.config = config
+
+
     
     def download_file(self):
         if not os.path.exists(self.config.local_data_file):
