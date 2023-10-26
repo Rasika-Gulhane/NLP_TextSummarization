@@ -54,7 +54,8 @@ open up you local host and port
 
 ```bash
 Author: Rasika Gulhane
-Data Scientist
+Aspiring Data Scientist 
+Pursuing MS in Data Science
 Email: gulhanerasika@gmail.com
 
 ```
