@@ -56,7 +56,7 @@ open up you local host and port
 Author: Rasika Gulhane
 Aspiring Data Scientist 
 Pursuing MS in Data Science
-Email: gulhanerasika@gmail.com
+Email: rasikasanjay.gulhane@pace.edu
 
 ```
 
